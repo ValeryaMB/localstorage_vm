@@ -1,0 +1,7 @@
+{
+  "name": "insumo_localstorage",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
